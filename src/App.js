@@ -23,6 +23,7 @@ function App() {
           <WeatherComponent weather={weather} />) :
           (<CityComponent setCity={setCity} fetchWeather={fetchWeather} />)}
       </div>
+      <span className='madewith'>Made with ❤ by Sahil Bhadu</span>
     </div>
   );
 }

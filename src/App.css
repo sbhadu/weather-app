@@ -23,3 +23,7 @@
   display: flex;
   flex-direction: column;
 }
+.madewith {
+  margin-top: 20px;
+  font-weight: bold;
+}

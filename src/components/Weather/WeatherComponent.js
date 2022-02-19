@@ -16,6 +16,8 @@ export const WIcons = {
     "10n": "/icons/rain-night.svg",
     "11d": "/icons/storm.svg",
     "11n": "/icons/storm.svg",
+    "13d": "/icons/strom.svg",
+    "50d": "icons/strom.svg",
 }
 export default function WeatherComponent(props) {
     const { weather } = props
